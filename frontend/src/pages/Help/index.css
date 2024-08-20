@@ -1,0 +1,88 @@
+/* created by wl123, github name wl123 */
+
+#help-info{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 6%;
+}
+
+.intro{
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+#installation{
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 6%;
+}
+
+
+.user-guide{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+#upload{
+    position: absolute;
+    margin-top: 26%;
+    margin-left: 6%;
+}
+
+.upload-guide{
+    position: absolute;
+    margin-top: 29%;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+
+#help-container{
+    line-height: 150%;
+}
+
+
+#egDownload1{
+    margin-left: 7%;
+    margin-top: 42.3%;
+    cursor: pointer;
+    border: none;
+    background-color: rgb(0,0,0,0);
+    width: 10px;
+}
+
+#egDownload1 .downloadIcon{
+    width: 35px;
+}
+
+.download1{
+    position: absolute;
+    top: 67%;
+    margin-left: 9.5%;
+}
+
+
+#egDownload2{
+    margin-left: 5.9%;
+    position: absolute;
+    top: 76.5%;
+    cursor: pointer;
+    border: none;
+    background-color: rgb(0,0,0,0);
+    width: 10px;
+}
+
+#egDownload2 .downloadIcon2{
+    width: 35px;
+}
+
+.download2{
+    position: absolute;
+    top: 76%;
+    margin-left: 9.5%;
+}
+

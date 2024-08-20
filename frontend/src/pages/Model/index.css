@@ -1,0 +1,33 @@
+/* created by wl123, github name wl123 */
+
+.container{
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-top: 3%;
+}
+
+.tight-container{
+    margin-left: 7%;
+    margin-right: 7%;
+    padding-top: 1.5%;
+}
+
+.tight-container div h2{
+    margin-bottom: 2.2%;
+}
+
+.message{
+    margin-left: 5%;
+    margin-right: 4%;
+    padding-top: 3%;
+}
+
+
+.body{
+    padding-top: 0px;
+}
+
+.tight-body{
+    padding-top: 0x;
+    margin-right: 0%;
+}
